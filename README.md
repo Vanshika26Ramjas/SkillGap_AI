@@ -546,7 +546,7 @@ SkillGap-AI/
 🔗 Add Live Application URL
 
 ```text
-https://your-demo-link.com
+[https://your-demo-link.com](https://ai-chat-assistant--vanshikaaaa2026.replit.app/)
 ```
 
 ---
